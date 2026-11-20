@@ -1,0 +1,28 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "nyanneco_object_snapshot",
+      "name": "Nyanneco Object Snapshot",
+      "tagline": "Object-level snapshot history for mesh and curve objects",
+      "version": "0.1.0",
+      "type": "add-on",
+      "maintainer": "nyanneco",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "permissions": {
+        "files": "Stores snapshot history inside the current blend file"
+      },
+      "tags": [
+        "Object"
+      ],
+      "archive_url": "./nyanneco_object_snapshot-0.1.0.zip",
+      "archive_size": 40095,
+      "archive_hash": "sha256:76d43715a7da78d11f7c78e39945469db56585615816d616061a57070c0a264c"
+    }
+  ]
+}
