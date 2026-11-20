@@ -20,7 +20,7 @@
       "tags": [
         "Object"
       ],
-      "archive_url": "https://github.com/nyanneco999/nyanneco-blender-extensions-free/releases/download/object-snapshot-v0.1.0/nyanneco_object_snapshot-0.1.0.zip",
+      "archive_url": "./nyanneco_object_snapshot-0.1.0.zip",
       "archive_size": 40095,
       "archive_hash": "sha256:76d43715a7da78d11f7c78e39945469db56585615816d616061a57070c0a264c"
     }
